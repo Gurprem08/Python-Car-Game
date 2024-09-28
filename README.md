@@ -11,6 +11,9 @@ Increasing Difficulty: As you progress, the game speed increases, making it more
 Score System: The longer you survive without crashing, the higher your score!
 Crash Detection: When your car crashes into an obstacle, the game ends, and your final score is displayed.
 
+![image](https://github.com/user-attachments/assets/a448914d-93f8-4aad-9248-1fe12c7fc729)
+
+
 Game Controls
 
 Left Arrow: Move the car to the left
